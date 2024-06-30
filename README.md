@@ -18,4 +18,5 @@ You can find me on Qiita and x (Twitter) if you like**
 * **database** : Room
 * **asynchronous processing** : Kotlin Coroutines
 * **Dependency injection** : Dagger Hilt
+* **API** : Retrofit
 * **External Services** : Firebase
