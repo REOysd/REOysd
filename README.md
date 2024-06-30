@@ -6,5 +6,16 @@ You can find me on Qiita and x (Twitter) if you like**
 ### Qiita:https://qiita.com/goretzka_
 ### x(Twitter):https://x.com/7qT59sJGCPLRkUA
 
+# Tech Stack
+![](https://skillicons.dev/icons?i=kotlin,java,swift,python,firebase)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=REOysd)
 
+# Mainly utilized technologies
+### kotlin
+* **architecture** : MVVM
+* **framework** : Jetpack Compose
+* **database** : Room
+* **asynchronous processing** : Kotlin Coroutines
+* **Dependency injection** : Dagger Hilt
+* **External Services** : Firebase
