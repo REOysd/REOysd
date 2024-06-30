@@ -1,20 +1,10 @@
-#About Me
-Hello, my name is Reo (x : Goretzka) and I am currently a student engineer!
-My name is Reo (x : Goretzka) and I am currently a student engineer.
+# About Me
+**Hello**
+ **my name is Reo (x : Goretzka) and I am currently a student engineer!
 I mainly develop android apps with kotlin (jetpack compose).
-You can find me on Qiita and x (Twitter) if you like
+You can find me on Qiita and x (Twitter) if you like**
+### Qiita:https://qiita.com/goretzka_
+### x(Twitter):https://x.com/7qT59sJGCPLRkUA
 
-<!--
-**REOysd/REOysd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-readme-stats.vercel.app/api/top-langs?username=REOysd)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
