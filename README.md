@@ -20,3 +20,12 @@ You can find me on Qiita and x (Twitter) if you like**
 * **Dependency injection** : Dagger Hilt
 * **API** : Retrofit
 * **External Services** : Firebase
+
+### Dart
+* **architecture** : MVVM
+* **framework** : Flutter
+* **database** : 
+* **asynchronous processing** : 
+* **Dependency injection** : 
+* **API** : http
+* **External Services** : Firebase
