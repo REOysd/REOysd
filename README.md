@@ -9,7 +9,7 @@ You can find me on Qiita and x (Twitter) if you like**
 # Tech Stack
 ![](https://skillicons.dev/icons?i=kotlin,swift,python,firebase,flutter)
 
-![]([https://github-readme-stats.vercel.app/api/top-langs?username=REOysd](https://x.com/home?lang=ja))
+![]([[https://github-readme-stats.vercel.app/api/top-langs?username=REOysd](https://x.com/home?lang=ja)](https://x.com/goretzka_Reo))
 
 # Mainly utilized technologies
 ### kotlin
